@@ -13,7 +13,7 @@
 
 .swiper-lightbox-content {
     width: 90%;
-    height: 90%;
+    /* height: 90%; */
     position: relative;
 }
 
@@ -66,11 +66,7 @@
     object-fit: contain;
 }
 
-.img-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 25px;
-}
+
 
 .img-block-slide{
  /* margin-bottom: 25px; */
